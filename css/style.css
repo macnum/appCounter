@@ -1,0 +1,10 @@
+body {
+  background: slategrey;
+}
+
+button {
+  border-radius: 5px;
+  border: 1px solid goldenrod;
+  background-color: lightgreen;
+  outline: none;
+}

@@ -12,4 +12,6 @@ function increaseCount() {
 }
 function save() {
   countSum.textContent += count +"-" ;
+  count = 0;
+  countEl.textContent = 0;
 }
